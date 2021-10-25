@@ -1,0 +1,25 @@
+.allContentContainer {
+    min-height: 100%;
+}
+
+.contentContainer {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-top: 0.75em;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.content {
+    float: left;
+    min-width: 60%;
+    max-width: 60%;
+    background-color: grey;
+    /* background-color:rgb(159, 255, 159); */
+}
+
+.listContainer {
+    padding-left: 12px;
+    padding-right: 12px;
+}
